@@ -2,6 +2,7 @@ Tripadvisor飯店評論、評價正負面分析
 ===
 
 # Introduction
+爬取Tripadvisor的飯店評論、評價並進行資料的前處理，透過ML中的SVM、MultinomialNB方法來判斷留言的情緒屬正面或負面。
 
 # Detail
 ### 資料前處理:
